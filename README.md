@@ -35,7 +35,8 @@ git --version
 
 ```bash
 cd Desktop
-mkdir adopta-project && cd adopta-project
+mkdir adopta-project
+cd adopta-project
 ```
 
 3. Cloner les deux dépôts Git :
