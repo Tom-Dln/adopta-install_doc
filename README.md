@@ -57,7 +57,9 @@ npm run develop
 ```
 
 - L’interface d’administration sera disponible sur : `http://localhost:1337/admin`
-- Lors du premier lancement, créer un compte administrateur
+- Se connecter avec les identifiants :
+  - Email : jefftuche@bouzolles.fr
+  - Mot de passe : &P#xH8[@[&/Aj2SSU!kV^o8Etsv3>ow!rYT<M2&?
 - Laisser Strapi tourner pendant l'utilisation du frontend
 
 ---
